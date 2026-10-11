@@ -7,11 +7,17 @@ This dashboard enables Client to explore patient distribution, medicine consumpt
 ## Project Objectives
 
 Monitor key healthcare performance indicators.
+
 Analyze total medicine quantities and medicine inventory usage.
+
 Evaluate healthcare costs and average cost per patient.
+
 Understand patient distribution across insurance providers.
+
 Explore patient demographics by age and gender.
+
 Analyze medicine distribution across different blood groups.
+
 Enable interactive data exploration through filters and medicine selection.
 
 📊 Dashboard Preview
@@ -25,12 +31,18 @@ Healthcare Management Dashboard featuring KPI cards, interactive filters, and he
 The dashboard highlights five key metrics:
 
 KPI	Description
-Total Quantity	Total quantity of medicines recorded
-Total Medicines	Number of medicines represented in the dataset
-Total Cost	Aggregate healthcare or medicine cost
-Total Patients	Number of patients represented in the analysis
-Average Cost per Patient	Average healthcare cost per patient
-The values displayed in the dashboard represent the current dataset and may change when filters are applied.
+
+ Total Quantity	Total quantity of medicines recorded
+
+ Total Medicines	Number of medicines represented in the dataset
+
+ Total Cost	Aggregate healthcare or medicine cost
+
+ Total Patients	Number of patients represented in the analysis
+
+ Average Cost per Patient	Average healthcare cost per patient
+
+ The values displayed in the dashboard represent the current dataset and may change when filters are applied.
 
 📉 Visualizations and Insights
 
@@ -72,33 +84,46 @@ Medicine Selection: Select individual medicines to explore relevant data.
 Cross-Visual Analysis: Use available dashboard interactions to investigate relationships between healthcare metrics.
 
 💡 Business Value
+
 This project demonstrates how healthcare data can be organized into an accessible analytical interface to support:
 
-Healthcare cost monitoring.
-Medicine usage analysis.
-Patient demographic analysis.
-Insurance distribution analysis.
-KPI tracking and exploratory data analysis.
-Data-driven operational decision-making.
+ Healthcare cost monitoring.
+
+ Medicine usage analysis.
+
+ Patient demographic analysis.
+
+ Insurance distribution analysis.
+
+ KPI tracking and exploratory data analysis.
+
+ Data-driven operational decision-making.
 
 🔍 Key Learnings
 
 This project demonstrates practical experience in:
 
-Designing KPI-driven dashboards.
-Translating raw data into visual insights.
-Comparing categorical and numerical data.
-Presenting healthcare metrics in an organized layout.
-Designing interactive filters for data exploration.
-Communicating analytical findings through data visualization.
+  Designing KPI-driven dashboards.
+
+  Translating raw data into visual insights.
+
+  Comparing categorical and numerical data.
+
+  Presenting healthcare metrics in an organized layout.
+
+  Designing interactive filters for data exploration.
+
+  Communicating analytical findings through data visualization.
 
 👤 Author
+
 Dharmdev Yadav
 
 Aspiring Data Analyst | Healthcare Analytics | Data Visualization
 
-GitHub: [Your GitHub Profile](https://github.com/Dharmdev-DataAnalyst)
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dharmdev-yadav-a926a0209/)
+GitHub:(https://github.com/Dharmdev-DataAnalyst)
+LinkedIn:(https://www.linkedin.com/in/dharmdev-yadav-a926a0209/)
 
 ⭐ Acknowledgements
+
 This project was developed to demonstrate the application of data visualization and dashboard design techniques to healthcare analytics.
