@@ -15,7 +15,7 @@ Analyze medicine distribution across different blood groups.
 Enable interactive data exploration through filters and medicine selection.
 
 📊 Dashboard Preview
-![Healthcare Management Dashboard](DashboardScreenshot\DashboardImage.png)
+![Healthcare Management Dashboard](DashboardScreenshot/DashboardImage.png)
 
 Healthcare Management Dashboard featuring KPI cards, interactive filters, and healthcare analytics visualizations.
 
