@@ -6,45 +6,45 @@ This dashboard enables Client to explore patient distribution, medicine consumpt
 
 ## Project Objectives
 
-Monitor key healthcare performance indicators.
+ Monitor key healthcare performance indicators.
 
-Analyze total medicine quantities and medicine inventory usage.
+ Analyze total medicine quantities and medicine inventory usage.
 
-Evaluate healthcare costs and average cost per patient.
+ Evaluate healthcare costs and average cost per patient.
 
-Understand patient distribution across insurance providers.
+ Understand patient distribution across insurance providers.
 
-Explore patient demographics by age and gender.
+ Explore patient demographics by age and gender.
 
-Analyze medicine distribution across different blood groups.
+ Analyze medicine distribution across different blood groups.
 
-Enable interactive data exploration through filters and medicine selection.
+ Enable interactive data exploration through filters and medicine selection.
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Healthcare Management Dashboard](DashboardScreenshot/DashboardImage.png)
 
 Healthcare Management Dashboard featuring KPI cards, interactive filters, and healthcare analytics visualizations.
 
-📈 Key Performance Indicators (KPIs)
+## 📈 Key Performance Indicators (KPIs)
 
 The dashboard highlights five key metrics:
 
-KPI	Description
+  KPI	Description
 
- Total Quantity	Total quantity of medicines recorded
+  Total Quantity	Total quantity of medicines recorded
 
- Total Medicines	Number of medicines represented in the dataset
+  Total Medicines	Number of medicines represented in the dataset
 
- Total Cost	Aggregate healthcare or medicine cost
+  Total Cost	Aggregate healthcare or medicine cost
 
- Total Patients	Number of patients represented in the analysis
+  Total Patients	Number of patients represented in the analysis
 
- Average Cost per Patient	Average healthcare cost per patient
+  Average Cost per Patient	Average healthcare cost per patient
 
- The values displayed in the dashboard represent the current dataset and may change when filters are applied.
+  The values displayed in the dashboard represent the current dataset and may change when filters are applied.
 
-📉 Visualizations and Insights
+## 📉 Visualizations and Insights
 
 1. Total Cost by Medicine ID - 
 Compares total costs across medicine identifiers.
@@ -73,7 +73,7 @@ Highlights the distribution of medicine-related records by blood group.
 Shows the distribution of patients by gender.
 Presents both absolute counts and percentage contributions.
 
-🎛️ Interactive Features
+## 🎛️ Interactive Features
 
 Blood Group Filter: Filter dashboard data by blood group.
 
@@ -83,7 +83,7 @@ Medicine Selection: Select individual medicines to explore relevant data.
 
 Cross-Visual Analysis: Use available dashboard interactions to investigate relationships between healthcare metrics.
 
-💡 Business Value
+## Business Value
 
 This project demonstrates how healthcare data can be organized into an accessible analytical interface to support:
 
@@ -99,21 +99,21 @@ This project demonstrates how healthcare data can be organized into an accessibl
 
  Data-driven operational decision-making.
 
-🔍 Key Learnings
+## 🔍 Key Learnings
 
 This project demonstrates practical experience in:
 
-  Designing KPI-driven dashboards.
+  1.Designing KPI-driven dashboards.
 
-  Translating raw data into visual insights.
+  2.Translating raw data into visual insights.
 
-  Comparing categorical and numerical data.
+  3.Comparing categorical and numerical data.
 
-  Presenting healthcare metrics in an organized layout.
+  4.Presenting healthcare metrics in an organized layout.
 
-  Designing interactive filters for data exploration.
+  5.Designing interactive filters for data exploration.
 
-  Communicating analytical findings through data visualization.
+  6.Communicating analytical findings through data visualization.
 
 👤 Author
 
@@ -122,8 +122,9 @@ Dharmdev Yadav
 Aspiring Data Analyst | Healthcare Analytics | Data Visualization
 
 GitHub:(https://github.com/Dharmdev-DataAnalyst)
+
 LinkedIn:(https://www.linkedin.com/in/dharmdev-yadav-a926a0209/)
 
-⭐ Acknowledgements
+## ⭐ Acknowledgements
 
 This project was developed to demonstrate the application of data visualization and dashboard design techniques to healthcare analytics.
