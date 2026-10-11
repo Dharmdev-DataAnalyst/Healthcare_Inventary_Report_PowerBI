@@ -4,7 +4,7 @@ The Healthcare Management Dashboard provides a consolidated view of healthcare d
 
 The dashboard enables Client to explore patient distribution, medicine consumption, insurance coverage, blood group statistics,Relationship and healthcare expenditure in a single interface.
 
-##Project Objectives
+## Project Objectives
 
 Monitor key healthcare performance indicators.
 Analyze total medicine quantities and medicine inventory usage.
